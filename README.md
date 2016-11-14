@@ -4,8 +4,7 @@ Immersion pédagogique à l’aide de la réalité virtuelle
 Réalisation des expériences virtuelles autour de l'électricité + QCM
 
 ## Description
-* Sur la base de Java Swing
-* Application du MVC, de la Stratégie
+* Sur la base de Unity 3D,C#
 
 ## Auteur
 * Sy Hung NGHIEM - Université de Technologie de Troyes
